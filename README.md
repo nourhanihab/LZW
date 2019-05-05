@@ -1,0 +1,2 @@
+# LZW
+Multimedia Compression Technique
